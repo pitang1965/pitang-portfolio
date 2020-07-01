@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/49b1b79a-1933-4283-a7d8-260cdf081f0c/deploy-status)](https://app.netlify.com/sites/condescending-gates-f7a712/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/49b1b79a-1933-4283-a7d8-260cdf081f0c/deploy-status)](https://app.netlify.com/sites/pitang-portfolio/deploys)
 <p align="center">
   <a href="https://cara.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
