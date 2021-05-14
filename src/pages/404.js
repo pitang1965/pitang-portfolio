@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-export default () => {
+const NotFound = () => {
   return (
     <div>
       <h1>
@@ -18,3 +18,5 @@ export default () => {
     </div>
   )
 }
+
+export default NotFound;
